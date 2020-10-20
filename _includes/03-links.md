@@ -1,0 +1,1 @@
+[bing](www.bing.com)
