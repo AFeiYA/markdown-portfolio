@@ -1,1 +1,13 @@
-Replace this with a list of your favorite things.
+
+* a
+* b
+  * c
+  * d
+- a
+- b
+- c
+
+1. a
+2. b
+  1. c
+  2. d
