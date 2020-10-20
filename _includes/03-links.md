@@ -1,1 +1,1 @@
-[bing](www.bing.com)
+[bing](https://cn.bing.com)
