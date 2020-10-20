@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Lake](https://ac-q.static.booking.cn/images/hotel/max1024x768/205/205873368.jpg)
